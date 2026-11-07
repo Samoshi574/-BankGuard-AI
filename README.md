@@ -16,6 +16,18 @@ within a single banking security dashboard.
 
 https://bankguard-ai-samoshi574.streamlit.app
 
+
+## 📸 Application Screenshots
+
+### 🛡️ Security Command Center
+![BankGuard AI Dashboard](screenshots/dashboard.png)
+
+### 🤖 AI Fraud Detection
+![Fraud Detection Analysis](screenshots/fraud-detection.png)
+
+### 🔐 Cybersecurity Threat Monitor
+![Cybersecurity Monitoring](screenshots/cybersecurity.png)
+
 ## ✨ Features
 
 ### AI Fraud Detection
